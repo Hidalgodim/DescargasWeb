@@ -1,5 +1,5 @@
 package es.mdef.acing;
 
-public class Actor {
+public class Actor extends Persona {
 
 }
